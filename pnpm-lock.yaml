@@ -142,8 +142,8 @@ importers:
         version: 6.2.1
     devDependencies:
       '@types/inquirer':
-        specifier: ^9.0.7
-        version: 9.0.7
+        specifier: ^9.0.8
+        version: 9.0.8
       '@types/lodash.merge':
         specifier: 'catalog:'
         version: 4.6.9
@@ -1120,8 +1120,8 @@ packages:
   '@types/estree@1.0.6':
     resolution: {integrity: sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==}
 
-  '@types/inquirer@9.0.7':
-    resolution: {integrity: sha512-Q0zyBupO6NxGRZut/JdmqYKOnN95Eg5V8Csg3PGKkP+FnvsUZx1jAyK7fztIszxxMuoBA6E3KXWvdZVXIpx60g==}
+  '@types/inquirer@9.0.8':
+    resolution: {integrity: sha512-CgPD5kFGWsb8HJ5K7rfWlifao87m4ph8uioU7OTncJevmE/VLIqAAjfQtko578JZg7/f69K4FgqYym3gNr7DeA==}
 
   '@types/json-schema@7.0.15':
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
@@ -4923,7 +4923,7 @@ snapshots:
 
   '@types/estree@1.0.6': {}
 
-  '@types/inquirer@9.0.7':
+  '@types/inquirer@9.0.8':
     dependencies:
       '@types/through': 0.0.33
       rxjs: 7.8.1
