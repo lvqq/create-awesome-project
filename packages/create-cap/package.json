@@ -34,7 +34,7 @@
   "author": "chlorine",
   "license": "MIT",
   "devDependencies": {
-    "@types/inquirer": "^9.0.7",
+    "@types/inquirer": "^9.0.8",
     "@types/lodash.merge": "catalog:",
     "@types/node": "catalog:",
     "@types/tar": "^6.1.13",
