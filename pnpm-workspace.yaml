@@ -8,7 +8,7 @@ catalog:
   axios: ^1.7.2
   eslint: ^8.57.0
   eslint-config-airbnb-base: ^15.0.0
-  eslint-config-prettier: ^8.10.0
+  eslint-config-prettier: ^8.10.2
   eslint-plugin-astro: ^0.34.0
   eslint-plugin-import: ^2.29.1
   eslint-plugin-prettier: ^5.2.1
