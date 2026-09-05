@@ -17,7 +17,7 @@ jobs:
       - name: Set node v14
         uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '14.21.3'
 
       - name: Install
         run: npm install
@@ -33,7 +33,7 @@ jobs:
       - name: Set node v14
         uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '14.21.3'
 
       - name: Install
         run: npm install
@@ -50,7 +50,7 @@ jobs:
       - name: Set node v14
         uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '14.21.3'
 
       - name: Install
         run: npm install
