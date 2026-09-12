@@ -2,7 +2,7 @@ packages:
   - packages/**
 catalog:
   "@types/lodash.merge": ^4.6.9
-  "@types/node": ^18.19.34
+  "@types/node": ^18.19.130
   "@typescript-eslint/eslint-plugin": ^5.62.0
   "@typescript-eslint/parser": ^5.62.0
   axios: ^1.7.2
